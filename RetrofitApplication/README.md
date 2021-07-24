@@ -5,7 +5,7 @@
 - Model MVVM: [Recycler view](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 - Display image: [x] [Picasso](https://square.github.io/picasso/) 
 
-### Files were using in this folder
+### Files were used in this folder
 - adapter/CurrencyListViewAdapter
 - model/Currencies
 - APIClient
