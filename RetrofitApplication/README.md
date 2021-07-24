@@ -2,8 +2,9 @@
 ## Name: Wallet application
 ### Tech list:
 - Call api: [Retrofit](https://square.github.io/retrofit/)
+- HTTP client: [okHTTP3](https://square.github.io/okhttp/)
 - Model MVVM: [Recycler view](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-- Display image: [x] [Picasso](https://square.github.io/picasso/) 
+- Display image: [Picasso](https://square.github.io/picasso/) 
 
 ### Files were used in this folder
 - adapter/CurrencyListViewAdapter
