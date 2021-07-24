@@ -1,5 +1,5 @@
 # Retrofit
-## Name: Wallet application
+## Wallet application
 ### Tech list:
 - Call api: [Retrofit](https://square.github.io/retrofit/)
 - HTTP client: [okHTTP3](https://square.github.io/okhttp/)
